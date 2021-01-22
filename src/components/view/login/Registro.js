@@ -5,6 +5,7 @@ const Registro = () => {
     return (
     <Fragment>
         <div className= "container-register">
+            <p>Hola</p>
             <div className="form-register">
                 <h4>REGISTRO DE USUARIO</h4>
                 <form className="form-register">
